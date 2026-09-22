@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
