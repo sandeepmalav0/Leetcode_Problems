@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1049-last-stone-weight-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
