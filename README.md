@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
