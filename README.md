@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
