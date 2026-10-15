@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0790-domino-and-tromino-tiling) |
 | [1049-last-stone-weight-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3592-inverse-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3592-inverse-coin-change) |
 ## Knapsack Problem
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
