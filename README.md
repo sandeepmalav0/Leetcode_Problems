@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3592-inverse-coin-change) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
