@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
