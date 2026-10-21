@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
