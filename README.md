@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
