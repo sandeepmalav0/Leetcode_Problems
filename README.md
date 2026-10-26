@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3592-inverse-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3592-inverse-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
