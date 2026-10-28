@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3592-inverse-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3592-inverse-coin-change) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
