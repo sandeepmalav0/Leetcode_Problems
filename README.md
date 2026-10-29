@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
