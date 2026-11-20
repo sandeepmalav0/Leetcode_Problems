@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3592-inverse-coin-change](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3592-inverse-coin-change) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
