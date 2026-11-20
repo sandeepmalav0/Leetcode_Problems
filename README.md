@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
