@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1049-last-stone-weight-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
