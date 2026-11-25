@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
