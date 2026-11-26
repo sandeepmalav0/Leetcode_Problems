@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0119-pascals-triangle-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/sandeepmalav0/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
